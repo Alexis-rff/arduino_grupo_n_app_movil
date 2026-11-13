@@ -6,7 +6,7 @@
   HC-SR04 + 3 LEDs de nivel + rele / bomba
   ------------------------------------------------------------
   Pines segun el diagrama detallado v2 (propuestos: validar en el montaje).
-  Parametros de DEMO pensados para simular el nivel con una tapa.
+  Parámetros de DEMO pensados para simular el nivel con la mano.
   ============================================================
 */
 
